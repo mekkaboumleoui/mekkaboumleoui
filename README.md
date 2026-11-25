@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**mekkaboumleoui/mekkaboumleoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in **MADA (Mathematics, Data Analysis and Learning)**.
 
-Here are some ideas to get you started:
+📊 Interested in **Data Science, Statistical Analysis and Artificial Intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently improving my skills in:
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+
+🔭 **Projects**
+- Python Foundations and Applied Projects
+- Adult Census Income Analysis (in progress)
+
+🎯 My goal is to develop practical skills in Data Science and Machine Learning through academic and personal projects.
+
